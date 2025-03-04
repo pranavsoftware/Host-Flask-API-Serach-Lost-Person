@@ -10,6 +10,8 @@ Flask==3.1.0
 flask-cors==5.0.1
 itsdangerous==2.2.0
 Jinja2==3.1.5
+celery==5.2.7
+redis==4.5.3
 js==1.0
 legacy-cgi==2.6.1
 MarkupSafe==3.0.2
